@@ -1,6 +1,5 @@
 ## Problem
-Student J likes to nap during the day, 
-<br> but her schedule is so busy that she doesn't have many chances to do so.
+Student J likes to nap during the day, but her schedule is so busy that she doesn't have many chances to do so.
 <br> Write a program to help her with the task.
 
 ## Input
