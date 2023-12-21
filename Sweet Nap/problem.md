@@ -3,8 +3,7 @@ Student J likes to nap during the day, but her schedule is so busy that she does
 <br> Write a program to help her with the task.
 
 ## Input
-The first line of each case contains integer s < 100,
-<br> representing the number of scheduled appointments for that day.
+The first line of each case contains integer s < 100, representing the number of scheduled appointments for that day.
 <br>
 <br> The next s lines contain the appointments in the format time 1 time 2 appointment,
 <br> where time 1 represents the time which the appointment starts and time 2 the time it ends.
