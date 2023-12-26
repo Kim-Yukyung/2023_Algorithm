@@ -24,7 +24,7 @@ The first line of input contains two positive integers: the number of existing h
 <br> All road segments are two-way, and there will exist a route between any pair of intersections.
 
 ## Output
-For each test case, output the lowest intersection number at which a new health center can be built so as to miinimize 
+For each test case, output the lowest intersection number at which a new health center can be built so as to minimize 
 <br> the maximum distance from any intersection to its nearest health center.
 <br> 
 <br> Separate the output of each two consecutive cases by a blank line.
